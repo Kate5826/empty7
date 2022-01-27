@@ -1,2 +1,7 @@
-/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
-[]
+[
+    {
+        "id": "212db13b627b716190a131608ee2876a50e3cf96f7f1f3807fba60097cc49f9a",
+        "name": "1",
+        "phrases": []
+    }
+]
