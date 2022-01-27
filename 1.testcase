@@ -1,1 +1,18 @@
-[{"id":"e21818c9-e217-d6e7-24c5-89a1126b0e27","parentId":"","request":{"text":"hello"},"response":"[]","meta":"{\"pLoc\":{\"file\":\"SmallTalk\",\"line\":6}}","visualProperties":"{\"childIndex\":0}"}]
+[
+    {
+        "id": "212db13b627b7161d7c065c5fb9721de6e1bafc7cc2be3357fba60097cc49f9a",
+        "name": "1",
+        "phrases": [
+            {
+                "id": "e21818c9-e217-d6e7-24c5-89a1126b0e27",
+                "parentId": "",
+                "request": {
+                    "text": "hello"
+                },
+                "response": "[]",
+                "meta": "{\"pLoc\":{\"file\":\"SmallTalk\",\"line\":6}}",
+                "visualProperties": "{\"childIndex\":0}"
+            }
+        ]
+    }
+]
